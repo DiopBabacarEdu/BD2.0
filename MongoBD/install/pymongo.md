@@ -1,5 +1,5 @@
 
-# Tutoriel
+# PymMongo for MongoDB
 Ce tutoriel est une introduction au travail avec MongoDB et PyMongo.
 
 ---
