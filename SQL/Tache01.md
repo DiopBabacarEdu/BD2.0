@@ -1,6 +1,5 @@
 # Tâche 01 : Création d'une base de données avec 4 tables
-
-Ce tutoriel vous guide étape par étape pour créer une base de données SQL avec 4 tables et insérer des données. Nous allons créer une base de données pour gérer une bibliothèque, avec les tables suivantes : `Livres`, `Auteurs`, `Emprunts`, et `Membres`.
+Cette première tâche vous guide étape par étape pour créer une base de données SQL avec 4 tables et insérer des données. Nous allons créer une base de données pour gérer une bibliothèque, avec les tables suivantes : `Livres`, `Auteurs`, `Emprunts`, et `Membres`.
 
 ---
 
