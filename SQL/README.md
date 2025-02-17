@@ -26,6 +26,40 @@ Voici la structure de ce repo :
 - [Tache04: Transaction et sécurité de base de données](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache04.md)
 - [Tache05: Optimisation de requêtes dans une DB](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache05.md)
 
+## Installation de MySQL
+
+- Afin de démarrer les travaux sur ce git, commencez d'abord par installer MySQL sur votre ordinateur.
+- Je vous propose d'installer MySQL via un conteneur tel que```Docker``` sur votre machine.
+
+### 1. Installer MySQL via un conteneur Docker
+
+#### Étapes à suivre :
+
+1. **Télécharger l'image MySQL sur DockerHub**  
+   Allez sur [MySQL sur Docker Hub](https://hub.docker.com/_/mysql) pour trouver l'image officielle de MySQL.
+   Ou bien exécuter à partir de votre terminal la commande ```docker pull``` ci-dessous :
+   ```bash
+   docker pull mysql:latest
+   ```
+   Ce qui téléchargera l'image de MySQL avec le ```tag``` ```latest``` qui identifie la dernière version mise à jour de l'image.
+3. **Lancer un conteneur MySQL**  
+   Une fois le téléchargement de l'image terminé, ouvrez un terminal (ou PowerShell) et exécutez la commande suivante pour lancer un conteneur MySQL avec le mot de passe : ```root``` :
+   ```bash
+   docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=root -d mysql:latest
+   ```
+Cette commande ```docker run``` permet de démarrer le conteneur de l'image ```mysql:latest``` en configurant un mot de passe ```root```.
+### 2. Se connecter à MySQL via Docker
+Pour se connecter à MySQL en utilisant le conteneur, exécutez la commande suivante :
+```bash
+docker exec -it  some-mysql bash
+```
+qui permet d'ouvrir un client mySQL en mode interactif. 
+Ensuite ouvrir à partir de votre ```bash``` l'application mySQL Client en tapant :
+```bash
+mySQL -u root -p
+```
+Ce qui va ouvrir un prompt qui vous demande votre mot de passe, qui a été configuré auparavant avec la valeur par défaut ```root```.
+
 
 ## Ressources 📚
 Pour approfondir vos connaissances en SQL, voici quelques ressources utiles :
