@@ -23,7 +23,8 @@ Voici la structure de ce repo :
 - [Tache01: Création et et manips de base d'une base de données](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache01.md)
 - [Tache02: Contrôle et manipulation d'une base de données](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache02.md)
 - [Tache03: Utilité des triggers dans le contrôle d'une base de données](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache03.md)
-- [Optimisation de requêtes d'une base de données](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache04.md)
+- [Tache04: Transaction et sécurité de base de données](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache04.md)
+- [Tache05: Optimisation de requêtes dans une DB](https://github.com/DiopBabacarEdu/BD2.0/blob/main/SQL/Tache05.md)
 
 
 ## Ressources 📚
