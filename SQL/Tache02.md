@@ -1,6 +1,6 @@
-# 📚 Tutoriel : Contrôle d'une base de données SQL avec l'exemple de Bibliothèque
+# Tâche 02 : Contrôle d'une base de données SQL
 
-Ce tutoriel vous guide dans la manipulation d'une base de données SQL en prenant comme exemple la base de données **Bibliotheque**, contenant les tables **Auteurs, Livres, Membres** et **Emprunts**. Vous apprendrez à effectuer des opérations essentielles comme les requêtes **SELECT**, les mises à jour **UPDATE**, les suppressions **DELETE** et l'utilisation des **jointures**.
+Cette deuxième tâche vous guide dans la manipulation d'une base de données SQL en prenant comme exemple la base de données **Bibliotheque**, contenant les tables **Auteurs, Livres, Membres** et **Emprunts**. Vous apprendrez à effectuer des opérations essentielles comme les requêtes **SELECT**, les mises à jour **UPDATE**, les suppressions **DELETE** et l'utilisation des **jointures**.
 
 ## Étape 1 : Se connecter à la base de données
 Avant de commencer, assurez-vous d'être connecté à votre système de gestion de base de données (MySQL, PostgreSQL, etc.) et d'utiliser la base de données **Bibliotheque**.
