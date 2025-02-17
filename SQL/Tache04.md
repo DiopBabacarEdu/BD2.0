@@ -177,7 +177,7 @@ Le rôle gestionnaire permet de gérer les permissions de plusieurs utilisateurs
 ## :card_file_box: Sécurité 10 : Protéger contre les injections SQL
 **Objectif** : Utiliser des requêtes préparées pour éviter les injections SQL.
 
-### Exemple en Python avec MySQL**
+### Exemple en Python avec MySQL
 ```SQL
 import mysql.connector
 
