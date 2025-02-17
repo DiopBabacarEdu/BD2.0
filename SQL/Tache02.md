@@ -1,4 +1,4 @@
-# Tâche 02 : Contrôle d'une base de données SQL
+# 🎯 Tâche 02 : Contrôle d'une base de données SQL
 
 Cette deuxième tâche vous guide dans la manipulation d'une base de données SQL en prenant comme exemple la base de données **Bibliotheque**, contenant les tables **Auteurs, Livres, Membres** et **Emprunts**. Vous apprendrez à effectuer des opérations essentielles comme les requêtes **SELECT**, les mises à jour **UPDATE**, les suppressions **DELETE** et l'utilisation des **jointures**.
 
