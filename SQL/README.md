@@ -11,6 +11,7 @@
 Ce dépôt contient une série de tutoriels pratiques sur la manipulation de bases de données avec SQL.
 
 Vous apprendrez à :
+
 ✅ Créer et gérer des bases de données  
 ✅ Manipuler des tables et des enregistrements  
 ✅ Écrire des requêtes SQL optimisées  
